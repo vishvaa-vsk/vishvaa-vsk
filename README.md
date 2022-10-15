@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python & JavaScript
 - 🌱 I’m currently in High School
 - 💞️ I’m looking to collaborate on Web Applications
-- 📫 How to reach me --> contact via email kvishvaa6@gmail.com or instagram vishvaa_vsk
+- 📫 How to reach me --> contact via email kvishvaa6@gmail.com
 
 <!---
 vishvaa-vsk/vishvaa-vsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
