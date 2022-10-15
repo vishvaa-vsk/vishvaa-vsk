@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishvaa-vsk
 - 👀 I’m interested in Python & JavaScript
-- 🌱 I’m currently learning High School
+- 🌱 I’m currently in High School
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me --> contact via email kvishvaa6@gmail.com or instagram vishvaa_vsk
 
