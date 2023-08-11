@@ -8,7 +8,7 @@ I've been learning to code for three years. I'm passionate about developing new 
 
 * 🌍  I'm based in Chennai, Tamil Nadu, India
 * ✉️  You can contact me at [kvishvaa6@gmail.com](mailto:kvishvaa6@gmail.com)
-* 🧠  I'm learning Django , NodeJS , ReactJS
+* 🧠  I'm learning Flask
 * 🤝  I'm interested to collaborate on great Web Application and Python based applications
 * ⚡  Completed high school recently
 
