@@ -1,5 +1,5 @@
 # 💫 About Me
-**A passionate web developer from India 🇮🇳**<br><br>🌍 I'm based in Chennai, Tamil Nadu, India<br>🔭 I’m currently working on a web app with flask to conduct school election in my school<br>👯 I’m looking to collaborate on great Web Application and Python based applications<br>🌱 I’m currently learning Flask, JavaScript and Django<br>⚡ I am currently pursuing a Bachelor of Engineering degree.
+**A passionate web developer from India 🇮🇳**<br><br>🌍 I'm based in Chennai, Tamil Nadu, India<br>🔭 I’m currently working on a web app with flask to conduct school election in my school<br>👯 I’m looking to collaborate on great Web Application and Python based applications<br>🌱 I’m currently learning Flask, JavaScript<br>⚡ I am currently pursuing a Bachelor of Engineering degree.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishvaa-K) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishvaa_vsk) 
