@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hey, I am Vishvaa! Glad to see you here! 👋</h1>
 
 ###
