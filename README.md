@@ -152,7 +152,6 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishvaa-vsk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishvaa-vsk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com/?user=vishvaa-vsk&locale=en&mode=daily&theme=tokyonight&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
 </div>
 
