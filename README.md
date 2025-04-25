@@ -1,6 +1,12 @@
+<br clear="both">
+
 <h1 align="left">Hey, I am Vishvaa! Glad to see you here! 👋</h1>
 
+###
+
 ![Header](./github-header-image.png)
+
+###
 
 <br clear="both">
 
@@ -38,21 +44,17 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">⚡ Tech Stack</h1>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">🚀 Languages</h3>
+<h3 align="left">🚀 Languages</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -72,15 +74,13 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">👨‍💻 Libraries & Frameworks</h3>
+<h3 align="left">👨‍💻 Libraries & Frameworks</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -96,15 +96,13 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">🫙Databases</h3>
+<h3 align="left">🫙Databases</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -116,15 +114,13 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">⚙️ Tools & Platforms</h3>
+<h3 align="left">⚙️ Tools & Platforms</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
@@ -150,8 +146,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="left">📈 Stats</h1>
 
 ###
@@ -162,8 +156,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vishvaa-vsk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=vishvaa-vsk&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
 
 ###
 
