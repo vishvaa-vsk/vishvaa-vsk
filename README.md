@@ -50,7 +50,6 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -76,8 +75,6 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="15" />
@@ -98,7 +95,6 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -115,8 +111,6 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 <h3 align="left">⚙️ Tools & Platforms</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
