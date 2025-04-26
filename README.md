@@ -37,7 +37,7 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishvaa-vsk&radius=0&theme=material-palenight&area=true&order=5&bg_color=#0B2441&line=#F5E105&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishvaa-vsk&bg_color=0a1c33&color=ece098&title_color=ece098&line=ffdd00&point=0d3467&area_color=132331&area=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -143,8 +143,9 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishvaa-vsk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com/?user=vishvaa-vsk&locale=en&mode=daily&theme=tokyonight&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishvaa-vsk&title_color=2f80ed&text_color=ece098&bg_color=0a1c33&border_color=ffdd00&border_radius=12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false
+  " height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=vishvaa-vsk&locale=en&date_format=M%20j%5B,%20Y%5D&mode=daily&border_radius=12&background=0a1c33&border=ffdd00&ring=ff9a3a&fire=ff6610&currStreakNum=ff6610&sideNums=fde235&currStreakLabel=2f80ed&sideLabels=2f80ed&dates=ece098&excludeDaysLabel=ece098" height="150" alt="streak graph"  />
 </div>
 
 ###
