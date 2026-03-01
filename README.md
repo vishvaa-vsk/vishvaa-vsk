@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Vishvaa, a passionate developer who loves turning ideas into reality with code. From building sleek web apps with Flask and JavaScript to exploring the depths of full-stack development, I thrive on solving real-world problems through tech. Currently diving deeper into open source and automation, I'm always on the lookout for meaningful collaborations and challenges that push me to grow. Let's build something impactful together 🚀</p>
+<p align="left">I’m Vishvaa, a passionate developer who loves turning ideas into reality with code. From building sleek web apps with FastAPI and JavaScript to exploring the depths of full-stack development, I thrive on solving real-world problems through tech. Currently diving deeper into open source and automation, I'm always on the lookout for meaningful collaborations and challenges that push me to grow. Let's build something impactful together 🚀</p>
 
 Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@gmail.com) !
 
