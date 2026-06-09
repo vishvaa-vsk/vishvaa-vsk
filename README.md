@@ -153,7 +153,7 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
 ###
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff6610)
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=ff6610" />
 </div>
 
 ###
