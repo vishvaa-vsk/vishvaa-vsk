@@ -149,6 +149,9 @@ Want to connect with me? Contact me via [kvishvaa6@gmail.com](mailto:kvishvaa6@g
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishvaa-vsk/vishvaa-vsk/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishvaa-vsk/vishvaa-vsk/output/pacman-contribution-graph.svg">
 </picture>
+
 ###
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff6610)
+
 ###
